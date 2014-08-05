@@ -26,6 +26,8 @@ int main(int argc, char** argv) {
     cout << "W trakcie dodawania nowej zajebistej rzeczy" << endl;
     cout << "DODANA Rzecz" << endl;
     
+    cout << "NEXT FT" << endl;
+    
     return 0;
 }
 
