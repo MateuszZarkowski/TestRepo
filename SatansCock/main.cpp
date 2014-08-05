@@ -16,6 +16,8 @@ using namespace std;
 int main(int argc, char** argv) {
     
     cout << "Szatan " << endl;
+    //pierwsza zmiana
+    cout << "Nowa zmiana" << endl;
     return 0;
 }
 
