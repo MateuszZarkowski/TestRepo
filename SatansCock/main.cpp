@@ -20,6 +20,12 @@ int main(int argc, char** argv) {
     cout << "Szybka poprawka" << endl;
     // druga zmiana
     cout << "Jeszcze jedna" << endl;
+    
+    
+    
+    cout << "W trakcie dodawania nowej zajebistej rzeczy" << endl;
+    cout << "DODANA Rzecz" << endl;
+    
     return 0;
 }
 
