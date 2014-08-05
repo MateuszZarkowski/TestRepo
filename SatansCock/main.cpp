@@ -17,7 +17,7 @@ int main(int argc, char** argv) {
     
     cout << "Szatan " << endl;
     //pierwsza zmiana
-    cout << "Nowa zmiana" << endl;
+    cout << "Szybka poprawka" << endl;
     // druga zmiana
     cout << "Jeszcze jedna" << endl;
     return 0;
